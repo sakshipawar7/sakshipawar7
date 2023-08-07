@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-<br>- 🧑‍🎓 B.E. Information Technology<br>- 🔭 I’m currently working on **Full stack development**<br>- 🌱 I’m currently learning  **DSA**<br>- 📫 How to reach me: **sakshipawar@gmail.com**
+<br>- 🧑‍🎓 B.E. Information Technology<br>- 🔭 I’m currently working on **Full stack development**<br>- 🌱 I’m currently learning  **DSA**<br>- 📫 You can reach me at **sakshipawar@gmail.com**
 
 
 
